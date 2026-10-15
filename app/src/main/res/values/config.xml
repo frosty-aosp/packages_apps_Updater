@@ -5,7 +5,7 @@
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
     <!-- Base background of the header card. -->
-    <color name="brand_primary">#167C80</color>
+    <color name="brand_primary">#95c7ff</color>
 
     <!-- Tiled pattern overlay color for the header card. -->
     <color name="brand_pattern">#48A0A3</color>
